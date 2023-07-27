@@ -20,9 +20,15 @@ Landing page has a search form which displays stock stats or error based on inpu
 
 ### Search Form
 
+![form](/screenshots/form.jpg?raw=true)
+
 ### Stock
 
+![Alt text](/screenshots/result.jpg?raw=true)
+
 ### Error
+
+![Alt text](/screenshots/error.jpg?raw=true)
 
 ## Setup
 
